@@ -58,7 +58,7 @@ NOVA, Gemini API üzerine inşa edilmiş, Türkçe konuşan bir kişisel masaüs
 
 ```bash
 git clone https://github.com/CanArda0166/virtual-assistant
-cd nova
+cd virtual-assistant
 pip install -r requirements.txt
 ```
 
@@ -68,7 +68,7 @@ pip install -r requirements.txt
 OWNER_NAME      = "Adınız"
 OWNER_FULL_NAME = "Adınız Soyadınız"
 GEMINI_API_KEYS = ["YOUR_GEMINI_API_KEY_1"]
-WEATHER_CITY    = "Istanbul"
+WEATHER_CITY    = "Sehriniz"
 ```
 
 Gemini API anahtarı almak için: [https://aistudio.google.com](https://aistudio.google.com)
