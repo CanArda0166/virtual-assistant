@@ -12,11 +12,11 @@ NOVA, Gemini API üzerine inşa edilmiş, Türkçe konuşan bir kişisel masaüs
 ---
 ## Özellikler
 
-### Sesli Asistan
-Mikrofon üzerinden sizi dinler, komutlarınızı Google Speech Recognition ile metne çevirir. Her cümle için konuşmanın size mi yoksa başka birine mi yönelik olduğunu otomatik algılar. Yanıtları Edge TTS ile seslendirir.
+>### Sesli Asistan
+>Mikrofon üzerinden sizi dinler, komutlarınızı Google Speech Recognition ile metne çevirir. Her cümle için konuşmanın size mi yoksa başka birine mi yönelik olduğunu otomatik algılar. Yanıtları Edge TTS ile seslendirir.
 
-### Gemini AI Entegrasyonu
-Birden fazla API anahtarı ve model destekler. Kota dolduğunda otomatik olarak sıradaki modele, oradan da sıradaki anahtara geçer. Desteklenen modeller: `gemini-2.0-flash`, `gemini-2.0-flash-lite`, `gemini-1.5-flash`, `gemini-1.5-flash-8b`, `gemini-1.5-pro`.
+>### Gemini AI Entegrasyonu
+>Birden fazla API anahtarı ve model destekler. Kota dolduğunda otomatik olarak sıradaki modele, oradan da sıradaki anahtara geçer. Desteklenen modeller: `gemini-2.0-flash`, `gemini-2.0-flash-lite`, `gemini-1.5-flash`, `gemini-1.5-flash-8b`, `gemini-1.5-pro`.
 
 ### Görev Yürütücü (Executor)
 "Spotify'ı aç", "ekran görüntüsü al", "şu dosyayı oluştur" gibi tek seferlik bilgisayar görevlerini Python kodu yazarak çalıştırır. Kod Gemini tarafından üretilir, güvenlik kontrolünden geçirilir ve kullanıcı onayı alındıktan sonra çalıştırılır. Başarılı scriptler kaydedilir, benzer isteklerde tekrar kullanılır. Gerekli pip paketleri otomatik kurulur.
