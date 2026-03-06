@@ -51,7 +51,7 @@ WhatsApp sohbet geçmişi, notlar ve CV gibi uzun metinleri analiz etmek için a
 ### Adımlar
 
 ```bash
-git clone https://github.com/kullanici/nova.git
+git clone https://github.com/CanArda0166/virtual-assistant
 cd nova
 pip install -r requirements.txt
 ```
