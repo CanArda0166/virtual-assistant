@@ -1,0 +1,19 @@
+{
+    "personal": {
+        "name": "",
+        "university": "",
+        "notes": ""
+    },
+    "courses": [],
+    "exams": [],
+    "tasks": [],
+    "habits": {
+        "sleep": "",
+        "study": "",
+        "other": []
+    },
+    "relations": [],
+    "goals": [],
+    "important_notes": [],
+    "last_updated": ""
+}

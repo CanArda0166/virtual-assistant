@@ -1,0 +1,7 @@
+google-generativeai
+edge-tts
+SpeechRecognition
+pyaudio
+pygame
+thefuzz
+python-Levenshtein
