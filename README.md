@@ -3,7 +3,7 @@
 NOVA, Gemini API üzerine inşa edilmiş, Türkçe konuşan bir kişisel masaüstü asistanıdır. Sesli komutları anlayarak bilgisayarda görev çalıştırır, konuşmalardan hafıza oluşturur ve günlük yaşam bilgilerini takip eder.
 
 ---
-> [!CAUTION]
+> [!UYARI]
 > Bu proje tamamen tek bir kişi (Can Arda Ceylan) tarafından kişisel kullanım için yapılmıştır. Lisans gereği dosyaların kopyalanması ve direkt kullanılması hak ihlali sayılır. Kodların paylaşım amacı diğer geliştiricilere ilham olmaktır. Lütfen geliştirici ile iletişime geçerek izin almadan dosyaları farklı platformlarda kullanıma ve paylaşıma sunmayınız.
 ---
 ## Özellikler
