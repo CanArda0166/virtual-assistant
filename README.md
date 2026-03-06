@@ -3,7 +3,7 @@
 NOVA, Gemini API üzerine inşa edilmiş, Türkçe konuşan bir kişisel masaüstü asistanıdır. Sesli komutları anlayarak bilgisayarda görev çalıştırır, konuşmalardan hafıza oluşturur ve günlük yaşam bilgilerini takip eder.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Gemini](https://img.shields.io/badge/AI-Gemini%201.5-orange?style=for-the-badge&logo=google-gemini&logoColor=white)
+![Gemini](https://img.shields.io/badge/AI-Gemini%202.5-orange?style=for-the-badge&logo=google-gemini&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge)
 
 ---
