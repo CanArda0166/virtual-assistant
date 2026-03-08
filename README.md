@@ -137,6 +137,6 @@ nova/
 | `character_query` | `True` | Kişi dosyası sorgulama |
 
 ---
-### Lisans
+## Lisans
 > [!CAUTION]
 > Copyright © 2026 Can Arda Ceylan. All Rights Reserved.
