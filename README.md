@@ -138,6 +138,5 @@ nova/
 
 ---
 
-## Lisans
-
-MIT
+> [!CAUTION]Lisans
+> Copyright © 2026 Can Arda Ceylan. All Rights Reserved.
