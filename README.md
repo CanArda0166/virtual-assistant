@@ -52,7 +52,7 @@ NOVA, Gemini API üzerine inşa edilmiş, Türkçe konuşan bir kişisel masaüs
 
 ### Gereksinimler
 
-- Python 3.11+
+- Python 3.11+ (3.12 Önerilir)
 - Windows 10/11 (STT ve TTS Windows'a özgüdür)
 - Mikrofon
 
